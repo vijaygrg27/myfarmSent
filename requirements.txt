@@ -1,2 +1,0 @@
-voila
-git+git://github.com/giswqs/geemap.git
